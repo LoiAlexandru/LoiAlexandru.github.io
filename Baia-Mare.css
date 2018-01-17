@@ -1,0 +1,238 @@
+
+
+
+.clock2{
+position: relative;
+left: 45px;
+top: 100px;
+}
+
+
+.header{
+    display: table;
+}
+.bara-sus{
+    background-color: rgb(68, 68, 68);
+    color: white;
+    width: 100%;
+    height: 80px;
+    font-family:"Arial Black", Gadget, sans-serif;
+    font-size: 50px;
+    position: sticky;
+    display: table-cell;
+}
+.clock {
+    font-size: 1em;
+    background-color: rgb(68, 68, 68);
+    color: white;
+    width: 19%;
+    height: 80px;
+    font-family:"Arial Black", Gadget, sans-serif;
+    font-size: 50px;
+    position: sticky;
+    display: table-cell;
+  }
+hr{
+    background-color: black;
+    height: 2px;
+}
+.turism{
+    display: none;
+}
+.stanga{
+    float: left;
+   
+}
+.dreapta{
+    float: right;
+}
+.mySlides {
+    display:none;
+    height: 550px;
+}
+.w3-left, .w3-right, .w3-badge {
+    cursor:pointer;
+}
+.w3-badge {
+    height:13px;width:13px;padding:0;
+}
+.buton1{
+    background-color: rgb(68, 68, 68);
+    width: 300px;
+    height: 40px;
+    color: white;
+margin-left: 30px;
+}
+.buton2{
+    background-color: rgb(68, 68, 68);
+    width: 220px;
+    height: 40px;
+    color: white;
+
+}
+.butondrop{
+    background-color: rgb(68, 68, 68);
+    width: 100%;
+    height: 40px;
+    color: white;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+}
+.column.side {
+    width: 25%;
+}
+.column.middle {
+    width: 50%;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.pagina2{
+    display: none;
+}
+.pagina3{
+    display: none;
+}
+.pagina4{
+    display: none;
+}
+.pagina5{
+    display: none;
+}
+.pagina6{
+    display: none;
+}
+.pagina7{
+    display: none;
+}
+.pagina8{
+    display: none;
+}
+.pagina9{
+    display: none;
+}
+.pagina10{
+    display: none;
+}
+
+
+
+.butoanepagina2{
+    display: none;
+}
+
+.text{
+    font-size: 18px;
+   
+}
+.nodisplay{
+    display: none;
+}
+
+
+.scroll{
+    width: 100%;
+    height: 600px;
+    overflow: scroll;
+}
+.scroll2{
+    width: 100%;
+    height: 550px;
+    overflow: scroll;
+}
+
+
+
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.calificare, .facilitati{
+    display: none;
+}
+ol.d {
+    list-style-type: lower-arab;
+}
+.tabel{
+    text-indent: 0px;
+}
+
+/*imagini Baia Mare de azi*/
+
+div.gallery img {
+    width: 100%;
+    height: 110px;
+    
+}
+
+
+
+
+
+
+
+
+.spatiu{
+    margin-bottom: 6px;
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+   }
+
+
+
+
+   /*calendar*/
+   
+
+
+   

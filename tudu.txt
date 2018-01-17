@@ -1,0 +1,23 @@
+int missingnumber(int[] nums){
+    int val=-1;
+    array.sort(nums);
+    bool ok=false;
+    for(int i=0;i<nums.length;i++){
+        if(nums.length==0&&i==0){
+            return val=nums[i]+1;
+            ok=true;
+        }
+        else if(nums[i+1]-nums[i]==2){
+            return val=nums[i]+1;
+            ok=true;
+        }
+        else
+        {
+            ok=true;
+            return val=nums[i]-1;
+        }
+    }
+    if(ok!=true){
+        return val=nums[nums.length]+1;
+    }
+}
